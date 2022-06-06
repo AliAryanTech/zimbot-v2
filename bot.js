@@ -1,23 +1,23 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮BayMax Bot© 2022 ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
+//▮BayMax Bot SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
-//▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮REPORT ABUSE OF BayMax BOT SOFTWARE EMAIL US
+//▮developerwrld@gmail.com
+//▮WHATSAPP US : https://wa.me/263780699988
+//▮OWNER NUMBER https://wa.me/263780699988
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
-//┃ZimBotInc SOFTWARE INCLUDES 
+//┃BayMax SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS FOR CHOOSING BayMax BOT
+//┃THANKS TO Mr Juice & EVERYONE WHO HELPED
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const fs = require('fs')
@@ -33,27 +33,27 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['2637806899988',''] //owner number +27634090203
+global.pemilik = ['263780699988'] //owner number +263780699988
+global.premium = ['263780699988'] //premium number +263780699988
+global.pengguna = 'Mr Juice' //username
+global.footer = 'BayMax BOT'
+global.botnma = 'BayMax BOT' //bot name
+global.ownernma = 'Mr Juice' //owner name
+global.packname = 'Mr Juice' //sticker package name
+global.author   = 'Mr Juice' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['#','!','/','+'] //prefix
 global.sp = '🔵' //sp
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    success: 'MrJuice!',
+    admin: '*This feature is only for Mr Juice*',
+    botAdmin: '*BayMax Bot must be admin first!*',
+    owner: '*this feature is only for Mr Juice*',
     group: '*Feature is only for groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*wait a moment BayMax proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
 }
 global.limitawal = {
@@ -68,7 +68,7 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
+global.thumb = fs.readFileSync('./BayMax/Mr Juice.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
